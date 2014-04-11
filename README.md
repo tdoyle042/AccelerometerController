@@ -1,2 +1,2 @@
-==Accelerometer Controller==
+==Accelerometer Controller
 Def. not for a booth game...
